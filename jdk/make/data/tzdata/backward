@@ -85,7 +85,7 @@ Link	America/Santiago	Chile/Continental
 Link	Pacific/Easter		Chile/EasterIsland
 Link	America/Havana		Cuba
 Link	Europe/Athens		EET
-Link	America/Panama		EST
+#Link	America/Panama		EST
 Link	America/New_York	EST5EDT
 Link	Africa/Cairo		Egypt
 Link	Europe/Dublin		Eire
@@ -126,7 +126,7 @@ Link	Asia/Tokyo		Japan
 Link	Pacific/Kwajalein	Kwajalein
 Link	Africa/Tripoli		Libya
 Link	Europe/Brussels		MET
-Link	America/Phoenix		MST
+#Link	America/Phoenix		MST
 Link	America/Denver		MST7MDT
 Link	America/Tijuana		Mexico/BajaNorte
 Link	America/Mazatlan	Mexico/BajaSur
@@ -348,7 +348,7 @@ Link	Europe/Kyiv		Europe/Kiev
 # Classically, Cyprus is in Asia; e.g. see Herodotus, Histories, I.72.
 # However, for various reasons many users expect to find it under Europe.
 Link	Asia/Nicosia		Europe/Nicosia
-Link	Pacific/Honolulu	HST
+#Link	Pacific/Honolulu	HST
 Link	America/Los_Angeles	PST8PDT
 Link	Pacific/Guadalcanal	Pacific/Ponape	#= Pacific/Pohnpei
 Link	Pacific/Port_Moresby	Pacific/Truk	#= Pacific/Chuuk
